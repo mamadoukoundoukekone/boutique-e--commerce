@@ -1,2 +1,2 @@
-# boutique-e--commerce
+# boutique-e-commerce
 Simple
